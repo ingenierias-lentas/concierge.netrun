@@ -1,5 +1,4 @@
 - golang http server to run on registered network members
 - registry of trusted rootfs mirrors (maybe on blockchain)
-- cors-locked api to run go-runc to setup networked programs
 - how to run kubernetes programs?
 - how to use CNCF programs for things like load-balancing, network proxying?
